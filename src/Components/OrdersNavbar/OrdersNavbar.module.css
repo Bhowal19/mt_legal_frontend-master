@@ -1,0 +1,12 @@
+a {
+    cursor: pointer;
+}
+a:hover {
+    transform: scale(1) !important;
+}
+.icon {
+    line-height: 0;
+}
+.active {
+    color: #b59410;
+}

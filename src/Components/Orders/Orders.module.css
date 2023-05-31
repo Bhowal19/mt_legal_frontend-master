@@ -1,0 +1,12 @@
+.container {
+    max-width: 80%;
+    margin: auto;
+    padding: 1em 0;
+}
+.height {
+    height: 74vh;
+}
+.card-container-height {
+    max-height: 46vh;
+    overflow-y: auto;
+}
